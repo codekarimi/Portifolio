@@ -19,12 +19,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/myLogo.png" sizes="any" />
+        <link rel="icon" href="/logo_2.png" sizes="any" className="rounded-full" />
       </head>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="dark"
+          defaultTheme="system"
           enableSystem
           disableTransitionOnChange
         >
