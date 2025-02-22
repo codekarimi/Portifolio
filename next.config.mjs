@@ -6,7 +6,10 @@ const nextConfig = {
       },
       eslint: {
         ignoreDuringBuilds: true,
-    }
+    },
+
+    //Deploying it to hostinger
+    output:"export"
 
 };
 
