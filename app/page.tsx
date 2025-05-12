@@ -16,12 +16,21 @@ const page = () => {
       <FloatingNav navItems={navItems} />
         <Hero />
         {/* <Grid/> */}
+        
+        {/* projects  */}
         <RecentProject/>
+
+        {/* clients  */}
         <Clients />
 
-        // <Experience />
+        {/* Experience  */}
+        <Experience />
+
+
         {/* // <Approach /> */}
-        // <Footer /> 
+
+        {/* footer  */}
+        <Footer /> 
       </div>
     </main>
   )
