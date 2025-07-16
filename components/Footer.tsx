@@ -32,8 +32,8 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
+      <div className="flex mt-16 md:flex-row flex-col justify-start md:gap-10 gap-3 items-center">
+        <p className="md:text-base text-sm md:font-normal font-light text-white">
           Copyright © ,year 2025
         </p>
 

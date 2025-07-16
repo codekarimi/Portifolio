@@ -21,10 +21,10 @@ const page = () => {
         <RecentProject/>
 
         {/* clients  */}
-        <Clients />
+        {/* <Clients /> */}
 
         {/* Experience  */}
-        <Experience />
+        {/* <Experience /> */}
 
 
         {/* // <Approach /> */}
